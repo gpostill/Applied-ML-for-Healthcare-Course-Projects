@@ -8,7 +8,8 @@ This repository includes the following...
 - Datathon 1 (Public Health Factors Influencing BMI) 
 - Datathon 2 (Mortality & Cardiovascular Disease Complications)
 - Datathon 4 (Prediction of mortality in the first 24 hours of Intensive Care Unit admission)
-- Datathon 5 
+- Datathon 5 (Multi-dimensional time-series data)
+
 *Note that there was no Datathon 3 for this course*
 
 **2. Final Project:** The final project prediction of premature mortality. This project was done in collaboration with Dr. Ijeoma Itany. It includes the following components:
